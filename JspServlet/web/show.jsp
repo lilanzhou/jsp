@@ -3,7 +3,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head >
-  <title>易圣通课堂练习</title>
+  <title>课堂练习</title>
   <meta charset="utf-8">
   <style>
     .username.ng-valid {
